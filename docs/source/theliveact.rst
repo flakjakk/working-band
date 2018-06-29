@@ -2,7 +2,7 @@
 
 ## Practise
 
-"Amateurs practise until they get it right, professionals practise until they can't get it wrong" - source Unknown
+	"Amateurs practise until they get it right, professionals practise until they can't get it wrong" - source Unknown
 
 One of the critical elements for any band / group. If you don't practise together you will never be tight, and tight is right. Practise time can also be used for experimentation within the group - try new leads / harmonies / feels etc.
 
