@@ -1,6 +1,8 @@
-# Stage setup
+Stage setup
+-----------
 
-## Setting up the stage - fast
+Setting up the stage - fast
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There is no substitute for a well set up stage, and laying your stage out properly is one of the most important aspects of playing live. It's no good setting your gear up all over the stage haphazardly - there has to be a plan, and a base design that creates an aesthetically pleasing view of your gear and allows you to move around without hindrance.
 
