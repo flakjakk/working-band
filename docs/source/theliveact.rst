@@ -4,9 +4,15 @@ Perfecting the live act
 Practise
 ########
 
-	"Amateurs practise until they get it right, professionals practise until they can't get it wrong" - source Unknown
+	"Amateurs practise until they get it right, professionals practise until they can't get it wrong" - Unknown
+
+At the group level
+==================
 
 One of the critical elements for any band / group. If you don't practise together you will never be tight, and tight is right. Practise time can also be used for experimentation within the group - try new leads / harmonies / feels etc.
+
+As individuals
+==============
 
 Tip: A metronome is an invaluable tool and you should always use it when practising. You can get these at any music shop - so do it !
 
