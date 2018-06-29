@@ -9,6 +9,7 @@ There is no substitute for a well set up stage, and laying your stage out proper
 Usually the band will set up in a set fashion - everybody in 'their' spot.
 
 This requires you to keep a number of points in mind:
+
 	1. Everyone on stage must have access to everyone else on stage
 	2.Your guitar leads must allow free movements across the whole stage at all times
 etc.
