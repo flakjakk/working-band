@@ -12,6 +12,7 @@ Guide to being in a Working Band.
    intro
    stagesetup
    theliveact
+   rep
 
 
 
