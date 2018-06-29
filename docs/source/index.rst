@@ -13,8 +13,8 @@ Guide to being in a Working Band.
    stagesetup
    theliveact
    rep
-
-
+   playingpassion
+   
 
 Indices and tables
 ==================
