@@ -1,8 +1,8 @@
 Perfecting the live act
------------------------
+***********************
 
 Practise
-^^^^^^^^
+########
 
 	"Amateurs practise until they get it right, professionals practise until they can't get it wrong" - source Unknown
 
@@ -16,7 +16,7 @@ More you can do . .
 2. Video the band
 
 Butterflies
-^^^^^^^^^^^
+###########
 
 This may seem a little odd to some, but many performers, myself included, even after many years of playing live, get nervous before going on stage. At first it hampered my performance significantly, but I later learned to use this nervous energy to my advantage.
 
