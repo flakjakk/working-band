@@ -1,0 +1,50 @@
+Headings
+=======
+
+* with overline, for parts
+# with overline, for chapters
+=, for sections
+-, for subsections
+^, for subsubsections
+“, for paragraphs
+
+Lists
+===
+* This is a bulleted list.
+* It has two items, the second
+  item uses two lines. (note the indentation)
+
+1. This is a numbered list.
+2. It has two items too.
+
+#. This is a numbered list.
+#. It has two items too.
+
+Images
+======
+.. image:: stars.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+
+Boxes
+=====
+seealso:
+.. seealso:: This is a simple **seealso** note.
+
+note:
+.. note::  This is a **note** box.
+
+Comments
+========
+.. comments [two dots at line beginning
+
+Footnotes
+=========
+Some text that requires a footnote [#f1]_ .
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+
