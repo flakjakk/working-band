@@ -14,9 +14,11 @@ One of the critical elements for any band / group. If you don't practise togethe
 As individuals
 ==============
 
-Tip: A metronome is an invaluable tool and you should always use it when practising. You can get these at any music shop - so do it !
+	Tip: A metronome is an invaluable tool and you should always use it when practising. You can get these at any music shop - so do it !
+
 
 More you can do . .
+===================
 
 1. Record often
 2. Video the band
