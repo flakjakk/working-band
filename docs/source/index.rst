@@ -14,6 +14,7 @@ Guide to being in a Working Band.
    theliveact
    rep
    playingpassion
+   alternatives
    
 
 Indices and tables
