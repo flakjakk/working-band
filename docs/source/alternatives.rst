@@ -13,13 +13,15 @@ So, where does that leave your average muso, who wants to play music but also wa
 
 Besides, the average one- to three-piece outfit is a lot easier to move around. Having to haul less gear, and having a smaller stage-footprint makes it easier to fit into smaller venues. You can deliver very good value-for-money [given that you have some clue as to how to deliver a good live performance] so club / pub owners will be more willing to give you a trial-run than say, a 5-piece rock outfit who build a wall of Marshall stacks behind them on stage before plugging in.
 
-## So where to now?
+So where to now?
+================
 
 You've decided you're now ok with the thought of using backing tracks; but where would you get them?
 
 If you ask around at music shops you will probably find a contact who can provide these. The quality might be an issue, but in SA you can get them for around R120.00 per song. However, there are other options open to you.
 
-### Using midi files to create your own tracks
+Using midi files to create your own tracks
+==========================================
 
    1. If you have a sequencer setup at home - either hardware- or pc-based you can create your own midi files and use these as a basis for your backing tracks.
    2. Downloading the midi files from the net is a really fast way to pick up midi tracks, but just remember that the quality can be very suspect.
