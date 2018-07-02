@@ -1,7 +1,9 @@
 
-# Alternatives to performing , but not in a band . . .
+Alternatives to performing , but not in a band . . .
+****************************************************
 
-## Backing tracks
+Backing tracks
+##############
 
 For the gigging rock 'n roller the thought of using backing tracks is anathema.
 
