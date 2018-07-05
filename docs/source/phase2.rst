@@ -53,9 +53,7 @@ And all this is before you play one note!!
 Process for the Line Check
 ==========================
 
-.. note::
-
-	The one thing you don't want is to blow something before you start the check. Please follow the guidelines listed below to ensure safe operation of your system.
+.. note::   The one thing you don't want is to blow something before you start the check. Please follow the guidelines listed below to ensure safe operation of your system.
 
 PA
 ^^
