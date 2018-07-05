@@ -28,19 +28,20 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
-|For the Guitars				|Sorted?        |
+|For the Guitars                |Sorted?        |
 +===============================+===============+
-|Guitar amps set up?			|               |
+|Guitar amps set up?            |               |
 +-------------------------------+---------------+
-|Power to the guitar amps?		|               |
+|Power to the guitar amps?      |               |
 +-------------------------------+---------------+
-|Drum mikes set up?				|               |
+|Drum mikes set up?             |               |
 +-------------------------------+---------------+
-|Drum mikes set up?				|               |
+|Drum mikes set up?             |               |
 +-------------------------------+---------------+
-|Guitar amps set up?			|               |
+|Guitar amps set up?            |               |
 +-------------------------------+---------------+
-|Power to the guitar amps?		|               |
+|Power to the guitar amps?      |               |
 +-------------------------------+---------------+
-|Drum mikes set up?				|               |
+|Drum mikes set up?             |               |
 +-------------------------------+---------------+
+
