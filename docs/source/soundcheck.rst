@@ -1,6 +1,9 @@
 The Sound Check
 ###############
 
+Phase I
+*******
+
 Okay, so we have a basic checklist of items that should be completed before attempting the sound check. This can be summarised as follows:
 
 +-------------------------------+---------------+
@@ -44,4 +47,8 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 |Guitar line / mic cabled in?   |               |
 +-------------------------------+---------------+
+
+And all this is before you play one note!!
+
+Now you are ready for Phase II which is The Line Check.
 

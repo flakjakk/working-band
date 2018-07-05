@@ -12,6 +12,7 @@ Guide to being in a Working Band.
    intro
    stagesetup
    soundcheck
+   linecheck
    theliveact
    rep
    playingpassion
