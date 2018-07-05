@@ -14,6 +14,7 @@ Usually the band will set up in a specific way - everybody in 'their' spot. Ther
 
 
 Things to keep in mind:
+=======================
 
 #. Everyone on stage should be able to move anywhere on the stage
 	#. Guitar leads must allow free movements across the whole stage at all times
