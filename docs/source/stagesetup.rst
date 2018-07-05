@@ -21,4 +21,32 @@ Things to keep in mind:
 #. Mind the guitar necks! Never set up in such a way that the guitarists are constantly sword-fighting.
 #. Stage monitors must be kept out of the way of the players. This shouldn't be an issue if you keep them in a line across stage-front.
 
+Best Practise
+#############
+
+For a quick setup you have to make sure that everyone has clear access to their part of the stage. This means that:
+
+Drums first
+===========
+
+Get all the kit gear onto the stage, as close as possible to the drummer's space - the rostrum if you're lucky enough to have one. This may take up space required by the guitarist/s at first.
+
+PA second
+=========
+
+Place the speakers up front and the mixing desk on stage, as close to the operator as possible. Run all the require cables and plug in. At this time the guitarists should be running power cables from the outlets. Power to the stage monitors should also be run now.
+
+Guitar amps third
+=================
+
+Once the drummer's gear is out of the way the guitarists move their amps onto the stage and start plugging in their amps and wiring up their effects. Once complete they can start setting up their mike stands and running cables to the mixer.
+
+.. note::
+
+	Keep the stage as clear as possivble at all times. Once you've set an item up, move everything you don't need off the stage.
+
+Monitors and mikes
+==================
+
+Plug in the power to the monitors and run audio cabling to the desk. At this point you should be ready for line checks.
 
