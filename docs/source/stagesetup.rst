@@ -6,5 +6,6 @@ Stage setup
    
    phase1
    phase2
+   linecheck
    phase3
 
