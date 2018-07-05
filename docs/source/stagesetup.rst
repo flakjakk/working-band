@@ -14,12 +14,10 @@ Usually the band will set up in a specific way - everybody in 'their' spot. Ther
 
 
 
-This requires you to keep a number of points in mind:
+Things to keep in mind:
 
-#. Everyone on stage must have access to everyone else on stage
-#. Your guitar leads must allow free movements across the whole stage at all times
-#. etc.
-
-
-	
+#. Everyone on stage should be able to move anywhere on the stage
+	#. Guitar leads must allow free movements across the whole stage at all times
+	#. No mike-stands blocking movement across stage
+#. etc
 
