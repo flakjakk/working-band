@@ -51,3 +51,6 @@ Monitors and mikes
 
 Plug in the power to the monitors and run audio cabling to the desk. At this point you should be ready for line checks.
 
+The Sound Check
+###############
+
