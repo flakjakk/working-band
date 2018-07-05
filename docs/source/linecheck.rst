@@ -1,3 +1,5 @@
-Phase II - The Line Check
-*************************
+Phase II
+********
 
+The Line Check
+==============

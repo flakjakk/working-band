@@ -4,6 +4,9 @@ The Sound Check
 Phase I
 *******
 
+Building the stage
+==================
+
 Okay, so we have a basic checklist of items that should be completed before attempting the sound check. This can be summarised as follows:
 
 +-------------------------------+---------------+
