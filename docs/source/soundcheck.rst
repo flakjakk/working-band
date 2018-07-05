@@ -14,11 +14,13 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 |Power to the monitors          |               |
 +-------------------------------+---------------+
+|Audio lines to the speakers?   |               |
++-------------------------------+---------------+
 |Audio lines to the monitors?   |               |
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
-|For the Drums                  |Sorted?        |
+|For the Drum Kit               |Sorted?        |
 +===============================+===============+
 |Drums set up?                  |               |
 +-------------------------------+---------------+
@@ -34,14 +36,12 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 |Power to the guitar amps?      |               |
 +-------------------------------+---------------+
-|Drum mikes set up?             |               |
+|Power to the guitar effects?   |               |
 +-------------------------------+---------------+
-|Drum mikes set up?             |               |
+|Guitar to effects cabled?      |               |
 +-------------------------------+---------------+
-|Guitar amps set up?            |               |
+|Effects to amp cabled?         |               |
 +-------------------------------+---------------+
-|Power to the guitar amps?      |               |
-+-------------------------------+---------------+
-|Drum mikes set up?             |               |
+|Guitar line / mic cabled in?   |               |
 +-------------------------------+---------------+
 
