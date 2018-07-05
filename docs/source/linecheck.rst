@@ -29,7 +29,7 @@ Drums
 ^^^^^
 [this be should link to 'Mikes for drum kits' doc].
 
-Drummer to tap the mikes gently one by one - check that each one is sending a signal to the desk. When you're satisfied that all is connected check each mike for sound. EQ as required then move on to the guitars.
+Drummer to tap the mikes gently one by one - check that each one is sending a signal to the desk. When you're satisfied that all is connected check each mike for sound per the process for vox mikes. EQ as required then move on to the guitars.
 
 Bass
 ^^^^
