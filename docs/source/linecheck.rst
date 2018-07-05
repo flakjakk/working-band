@@ -27,9 +27,12 @@ Follow suit with the rest of the vox mikes, being careful to maintain a balance 
 
 Drums
 ^^^^^
+[this be should link to 'Mikes for drum kits' doc].
 
-Once the drummer is happy with the kit layout he must
+Drummer to tap the mikes gently one by one - check that each one is sending a signal to the desk. When you're satisfied that all is connected check each mike for sound. EQ as required then move on to the guitars.
 
+Bass
+^^^^
 
 
 
