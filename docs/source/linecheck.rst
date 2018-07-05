@@ -22,7 +22,7 @@ Vox
 
 Starting with the lead vox channel turn the Gain off and push the fader up to '0'. If the volume is too low then ease the channel Gain up until it sounds loud enough. No higher. EQ to taste.
 
-Follow suit with the rest of the vox mikes.
+Follow suit with the rest of the vox mikes, being careful to maintain a balance between the lead and backing vox levels. Getting everyone to sing together would help!
 
 
 Drums
