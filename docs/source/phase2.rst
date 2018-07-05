@@ -53,6 +53,10 @@ And all this is before you play one note!!
 Process for the Line Check
 ==========================
 
+.. note::
+
+The one thing you don't want is to blow something before you start the check. Please follow the guidelines listed below to ensure safe operation of your system.
+
 PA
 ^^
 
@@ -64,7 +68,7 @@ PA
 	- Turn on the floor monitors
 #. Check that everything is up and running
 #. Turn the power amps / PA speaker volumes up to full. Ditto for the monitors
-#. Push the main L/R faders up to '0' [parity]
+#. Push the main L/R faders up to '0' [some call this 'parity']
 #. 
 
 Drums
