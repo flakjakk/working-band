@@ -6,7 +6,7 @@ Setting up the stage - fast
 
 There is no substitute for a well set up stage, and laying your stage out properly is one of the most important aspects of the live show. It's no good setting your gear up all over the stage haphazardly - there has to be a plan, and a base design that creates an aesthetically pleasing view of your gear while allowing you to move around without hindrance.
 
-Usually the band will set up in a specific way - everybody in 'their' spot. There should be a focal point for the setup - at the back of the stage this is usually the drum kit which should be set up centre-stage, ahile at the front it is the lead singer who must get the attention. Typically the guitarists would place their amps on either side of the kit.
+Usually the band will set up in a specific way - everybody in 'their' spot. There should be a focal point for the setup - at the back of the stage this is usually the drum kit which should be set up centre-stage, while at the front it is the lead singer who must get the attention. Typically the guitarists would place their amps on either side of the kit.
 
 .. note::
 
