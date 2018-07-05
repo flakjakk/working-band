@@ -1,5 +1,5 @@
 Introduction to the Manual
-**************************
+==========================
 
 This effort is a collation of the knowledge I have gathered during my 30+ years in the music industry. I'm still gathering knowledge and experience, and will therefore be continually adding content.
 
