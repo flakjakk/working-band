@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'working-band'
+project = 'In a Working Band'
 copyright = '2018, Ed Kidgell'
 author = 'Ed Kidgell'
 
