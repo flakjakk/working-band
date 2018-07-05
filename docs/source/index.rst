@@ -11,6 +11,7 @@ Guide to being in a Working Band.
    help
    intro
    stagesetup
+   soundcheck
    theliveact
    rep
    playingpassion

@@ -46,17 +46,14 @@ Place the speakers up front and the mixing desk on stage, as close to the operat
 Guitar amps third
 =================
 
-Once the drummer's gear is out of the way the guitarists move their amps onto the stage and start plugging in their amps and wiring up their effects. Once complete they can start setting up their mike stands and running cables to the mixer.
+Once the drummer's gear is out of the way the guitarists move their amps onto the stage and start plugging in their amps and wiring up their effects. Once complete they can start setting up their mike stands and running cables to the mixer. The drummer should also be wiring up his mikes at this time.
 
 .. note::
 
-	Keep the stage as clear as possivble at all times. Once you've set an item up, move everything you don't need off the stage.
+	Keep the stage as clear as possible at all times. Once you've set an item up, move everything you don't need off the stage.
 
 Monitors and mikes
 ==================
 
 Plug in the power to the monitors and run audio cabling to the desk. At this point you should be ready for line checks.
-
-The Sound Check
-###############
 
