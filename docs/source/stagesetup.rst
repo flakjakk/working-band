@@ -22,6 +22,12 @@ Things to keep in mind:
 #. Mind the guitar necks! Never set up in such a way that the guitarists are constantly sword-fighting.
 #. Stage monitors must be kept out of the way of the players. This shouldn't be an issue if you keep them in a line across stage-front.
 
+Here is a representation of our basic layout:
+
+.. image:: images/seats-placement-on-stage.jpg
+   :width: 600px
+   :alt: stage placings
+
 Best Practise
 #############
 
