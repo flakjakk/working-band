@@ -1,6 +1,11 @@
 The Sound Check
 ###############
 
+.. toctree::
+   :maxdepth: 2
+   
+   linecheck
+
 Phase I
 *******
 
