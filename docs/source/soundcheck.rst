@@ -4,31 +4,31 @@ The Sound Check
 Okay, so we have a basic checklist of items that should be completed before attempting the sound check. This can be summarised as follows:
 
 +-------------------------------+---------------+
-|For the PA						|Sorted ?       |
+|For the PA                     |Sorted?        |
 +===============================+===============+
-|Power to the stage				|               |
+|Power to the stage             |               |
 +-------------------------------+---------------+
-|Power to the mixer				|               |
+|Power to the mixer             |               |
 +-------------------------------+---------------+
-|Power to the amps				|               |
+|Power to the amps              |               |
 +-------------------------------+---------------+
-|Power to the monitors			|               |
+|Power to the monitors          |               |
 +-------------------------------+---------------+
-|Audio lines to the monitors?	|               |
+|Audio lines to the monitors?   |               |
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
-|For the Drums					|Sorted ?       |
+|For the Drums                  |Sorted?        |
 +===============================+===============+
-|Drums set up?					|               |
+|Drums set up?                  |               |
 +-------------------------------+---------------+
-|Drum mikes set up?				|               |
+|Drum mikes set up?             |               |
 +-------------------------------+---------------+
-|Drum mikes cabled in?			|               |
+|Drum mikes cabled in?          |               |
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
-|For the Guitars				|Sorted ?       |
+|For the Guitars				|Sorted?        |
 +===============================+===============+
 |Guitar amps set up?			|               |
 +-------------------------------+---------------+
