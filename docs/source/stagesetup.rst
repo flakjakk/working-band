@@ -13,11 +13,12 @@ Usually the band will set up in a specific way - everybody in 'their' spot. Ther
 	The drummer should be able to hear the bass at all times!
 
 
-
 Things to keep in mind:
 
 #. Everyone on stage should be able to move anywhere on the stage
 	#. Guitar leads must allow free movements across the whole stage at all times
 	#. No mike-stands blocking movement across stage
-#. etc
+#. Mind the guitar necks! Never set up in such a way that the guitarists are constantly sword-fighting.
+#. Stage monitors must be kept out of the way of the players. This shouldn't be an issue if you keep them in a line across stage-front.
+
 
