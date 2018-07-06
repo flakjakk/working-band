@@ -10,6 +10,7 @@ Guide to being in a Working Band.
    license
    help
    intro
+   seats
    stagesetup
    theliveact
    rep

@@ -25,7 +25,7 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 |For the Drum Kit               |Sorted?        |
 +===============================+===============+
-|Drums set up?                  |               |
+|Drums set up                   |               |
 +-------------------------------+---------------+
 |Drum mikes set up              |               |
 +-------------------------------+---------------+

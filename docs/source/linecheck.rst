@@ -19,6 +19,8 @@ PA
 #. Turn the power amps / PA speakers and monitor volumes up to full
 #. Push the main L/R faders up to '0' [some call this 'parity']
 
+.. note ::   Channel settings on the mixer should not change much from gig to gig. If they need to be then you **are** doing something very wrong.
+
 Vox
 ^^^
 
