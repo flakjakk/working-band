@@ -9,7 +9,7 @@ PA
 #. Make sure all power amp and / or PA speakers volumes are off
 #. Make sure that the powered monitors are off and volumes turned off
 #. The mixer
-	- Check that all the faders on the desk are at the bottom [off] {#}_. Mute all the channels if possible
+	- Check that all the faders on the desk are at the bottom [off] [#]_. Mute all the channels if possible
 	- Check that your Aux output volumes are off - they feed the monitors and you don't want any signal going there yet!
 	- Turn the mixer on
 #. If all the right lights are blinking on the desk
