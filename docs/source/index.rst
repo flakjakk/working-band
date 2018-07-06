@@ -4,9 +4,6 @@ Welcome to The Working Band Manual!
 Guide to being in a Working Band.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Stage setup
-===========
-
 .. toctree::
    :maxdepth: 2
    
