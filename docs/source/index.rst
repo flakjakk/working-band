@@ -5,10 +5,7 @@ Guide to being in a Working Band.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Stage setup
-^^^^^^^^^^^
-
-Perfecting the live act
-^^^^^^^^^^^^^^^^^^^^^^^
+===========
 
 .. toctree::
    :maxdepth: 2
