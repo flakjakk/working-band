@@ -20,6 +20,15 @@ Lists
 #. This is a numbered list.
 #. It has two items too.
 
+use one asterisk on each side of a text you want to emphasize in italic and 2 asterisks in you want to make it bold:
+
+*italic*
+**bold**
+
+.. This text will not be shown 
+   (but, for instance, in HTML might be 
+   rendered as an HTML comment)
+
 Images
 ======
 .. image:: stars.jpg
