@@ -1,6 +1,5 @@
-###########
 Stage setup
-###########
+===========
 
 .. toctree::
    :maxdepth: 2
