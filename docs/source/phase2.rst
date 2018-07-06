@@ -17,9 +17,9 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +-------------------------------+---------------+
 |Power to the monitors          |               |
 +-------------------------------+---------------+
-|Audio lines to the speakers?   |               |
+|Audio lines to the speakers    |               |
 +-------------------------------+---------------+
-|Audio lines to the monitors?   |               |
+|Audio lines to the monitors    |               |
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
@@ -27,25 +27,25 @@ Okay, so we have a basic checklist of items that should be completed before atte
 +===============================+===============+
 |Drums set up?                  |               |
 +-------------------------------+---------------+
-|Drum mikes set up?             |               |
+|Drum mikes set up              |               |
 +-------------------------------+---------------+
-|Drum mikes cabled in?          |               |
+|Drum mikes cabled in           |               |
 +-------------------------------+---------------+
 
 +-------------------------------+---------------+
 |For the Guitars                |Sorted?        |
 +===============================+===============+
-|Guitar amps set up?            |               |
+|Guitar amps set up             |               |
 +-------------------------------+---------------+
-|Power to the guitar amps?      |               |
+|Power to the guitar amps       |               |
 +-------------------------------+---------------+
-|Power to the guitar effects?   |               |
+|Power to the guitar effects    |               |
 +-------------------------------+---------------+
-|Guitar to effects cabled?      |               |
+|Guitar to effects cabled       |               |
 +-------------------------------+---------------+
-|Effects to amp cabled?         |               |
+|Effects to amp cabled          |               |
 +-------------------------------+---------------+
-|Guitar line / mic cabled in?   |               |
+|Guitar line / mic cabled in    |               |
 +-------------------------------+---------------+
 
 And all this is before you play one note!!
