@@ -1,5 +1,5 @@
 The Cheap Seats
-===============
+###############
 
 Thoughout this manual I will use the band 'The Cheap Seats' as an example for us to consider. This is [was] an actual band I played in [see https://www.youtube.com/watch?v=u0ZI4sF6OP0] and will serve as a standard model for the application of ideas / processes I propose.
 

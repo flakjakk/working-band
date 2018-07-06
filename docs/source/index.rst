@@ -1,8 +1,8 @@
 Welcome to The Working Band Manual!
-===================================
+###################################
 
 Guide to being in a Working Band.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+*********************************
 
 .. toctree::
    :maxdepth: 3
@@ -18,7 +18,7 @@ Guide to being in a Working Band.
    alternatives
 
 Indices and tables
-==================
+******************
 
 * :ref:`genindex`
 * :ref:`modindex`
