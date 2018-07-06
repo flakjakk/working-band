@@ -4,6 +4,12 @@ Welcome to The Working Band Manual!
 Guide to being in a Working Band.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Stage setup
+^^^^^^^^^^^
+
+Perfecting the live act
+^^^^^^^^^^^^^^^^^^^^^^^
+
 .. toctree::
    :maxdepth: 2
    
@@ -16,9 +22,6 @@ Guide to being in a Working Band.
    rep
    playingpassion
    alternatives
-
-Stage setup
-===========
 
 Indices and tables
 ==================
