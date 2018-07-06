@@ -5,7 +5,7 @@ Guide to being in a Working Band.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    license
    help
