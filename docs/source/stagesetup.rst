@@ -2,7 +2,7 @@ Stage setup
 ===========
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
    phase1
    phase2
