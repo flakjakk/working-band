@@ -16,7 +16,9 @@ Guide to being in a Working Band.
    rep
    playingpassion
    alternatives
-   
+
+Stage setup
+===========
 
 Indices and tables
 ==================
