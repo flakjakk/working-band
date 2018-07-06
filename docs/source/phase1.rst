@@ -4,7 +4,7 @@ Phase I
 Setting up the stage - fast
 ===========================
 
-There is no substitute for a well set up stage, and laying your stage out properly is one of the most important aspects of the live show. It's no good setting your gear up all over the stage haphazardly - there has to be a plan, and a base design that creates an aesthetically pleasing view of your gear while allowing you to move around without hindrance.
+There is no substitute for a well set up stage, and laying your stage out properly is one of the most important aspects of the live show. It's no good setting your gear up all over the stage haphazardly - there has to be a plan, and a base design that creates an aesthetically pleasing view of the stage while allowing you to move around without hindrance.
 
 Usually the band will set up in a specific way - everybody in 'their' spot. There should be a focal point for the setup - at the back of the stage this is usually the drum kit which should be set up centre-stage, while at the front it is the lead singer who must get the attention. Typically the guitarists would place their amps on either side of the kit.
 
@@ -43,7 +43,7 @@ Get all the kit gear onto the stage, as close as possible to the drummer's space
 PA second
 ^^^^^^^^^
 
-Place the speakers up front and the mixing desk on stage, as close to the operator as possible. Run all the require cables and plug in. At this time the guitarists should be running power cables from the outlets. Power to the stage monitors should also be run now.
+Place the speakers up front and the mixing desk on stage, as close to the operator as possible. Run all the required cables and plug in. At this time the guitarists should be running power cables from the outlets to where their amp and effects are to be situated. The floor monitors should be placed and power cables set up for them.
 
 Guitar amps third
 ^^^^^^^^^^^^^^^^^

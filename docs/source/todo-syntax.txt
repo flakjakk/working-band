@@ -1,5 +1,5 @@
 Headings
-=======
+========
 
 * with overline, for parts
 # with overline, for chapters
@@ -9,7 +9,7 @@ Headings
 “, for paragraphs
 
 Lists
-===
+=====
 * This is a bulleted list.
 * It has two items, the second
   item uses two lines. (note the indentation)
@@ -28,6 +28,30 @@ Images
     :height: 100px
     :alt: alternate text
 
+.. image:: ../images/wiki_logo_openalea.png
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+
+Figure directive
+================
+
+.. figure:: ../images/wiki_logo_openalea.png
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :figclass: align-center
+
+figures are like images but with a caption
+
+    and whatever else you wish to add
+
+    .. code-block:: python
+
+        import image
+
 Boxes
 =====
 seealso:
@@ -36,9 +60,120 @@ seealso:
 note:
 .. note::  This is a **note** box.
 
-Comments
+Comments:
+=========
+comments can be made by adding two dots at the beginning of a line as follows:
+
+.. comments
+
+Simple table:	
+=============
+Simple tables can be written as follows:
+
++---------+---------+-----------+
+| 1       |  2      |  3        |
++---------+---------+-----------+
+
+Complex table:
+==============
+
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+Another way:
+============
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+=====  =====  ======
+
+Internal hyperlinks:
+====================
+ 	
+All titles are considered as internal hyperlinks that may be refered to using this syntax:
+
+`Internal and External links`_
+
+You may also create hyperlink as follows:
+
+.. _begin:
+And then inserting begin_ in your text. For instance, jump to the beginning of this document rst_tutorial
+
+Note the underscore at the end ot the links
+
+External links:
+===============
+In order to link to external links simply use:
+
+`Python <http://www.python.org/>`_
+that is rendered as a normal hyperlink Python.
+
+Note
+
+If you have an underscore within the label/name, you got to escape it with a ‘\’ character.
+
+Include other reST files and TOC
+================================
+Since reST does not have facilities to interconnect several documents, or split documents into multiple output files, Sphinx uses a custom directive to add relations between the single files the documentation is made of, as well as tables of contents. The toctree directive is the central element.
+
+.. toctree::
+    :maxdepth: 2
+
+    intro
+    chapter1
+    chapter2
+Globbing can be used by adding the glob option:
+
+.. toctree::
+    :glob:
+
+    intro*
+    recipe/*
+    *
+The name of the file is used to create the title in the TOC. You may want to change this behaviour by changing the toctree as follows:
+
+.. toctree::
+    :glob:
+
+    intro
+    Chapter1 description <chapter1>
+	
+Comments:
+=========
+comments can be made by adding two dots at the beginning of a line as follows:
+
+.. comments
+
+Aliases:	
 ========
-.. comments [two dots at line beginning
+The first method is to add at end of your reST document something like:
+
+.. _Python: http://www.python.org/
+Then, write your text inserting the keywrod Python_ . The final result will be as follows: Python .
+
+A second method is as follows:
+
+.. |longtext| replace:: this is a very very long text to include
+and then insert |longtext| wherever needed.
+
+Note
+====
+
+Note that when you define the reference or alias, the underscore is before the keyword. However, when you refer to it, the underscore is at the end. The underscore after the keyword is also used for internal references, citations, aliases ...
 
 Footnotes
 =========

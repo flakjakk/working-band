@@ -6,16 +6,20 @@ Process for the Line Check
 PA
 ^^
 
-#. Make sure all power amp and / or PA speakers volumes are off, ditto for the powered monitors.
-	- Check that the faders on the desk are all at the bottom [off]. Mute all the channels if possible
+#. Make sure all power amp and / or PA speakers volumes are off
+#. Make sure that the powered monitors are off and volumes turned off
+#. The mixer
+	- Check that all the faders on the desk are at the bottom [off] {*}. Mute all the channels if possible
 	- Check that your Aux output volumes are off - they feed the monitors and you don't want any signal going there yet!
 	- Turn the mixer on
 #. If all the right lights are blinking on the desk
 	- Turn on the power amps or the PA speakers
 	- Turn on the floor monitors
 #. Check that everything is up and running
-#. Turn the power amps / PA speaker volumes up to full. Ditto for the monitors
+#. Turn the power amps / PA speakers and monitor volumes up to full
 #. Push the main L/R faders up to '0' [some call this 'parity']
+
+	{*} This would be an initial setup methodology. Subsequent setups at other gigs would entail that you ensure that only the main fader is off, not those for _all_ the channels.
 
 Vox
 ^^^
@@ -33,8 +37,12 @@ Drummer to tap the mikes gently one by one - check that each one is sending a si
 
 Bass
 ^^^^
+Bass player to fire up effects then his / her amp. Check that they have sound and EQ to taste. Check that any lines to the mixer are working and EQ to taste.
 
+Guitar/s
+^^^^^^^^
 
+Guiatrist/s to power on effects then amp/s. Check that they have sound and EQ to taste. Check that any lines to the mixer are working and EQ to taste.
 
-Now you are ready for Phase III which is The Sound Check.
+If everything has worked up to this point then you are ready for Phase III which is the actual Sound Check.
 
