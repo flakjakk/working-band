@@ -8,10 +8,6 @@ There is no substitute for a well set up stage, and laying your stage out proper
 
 Usually the band will set up in a specific way - everybody in 'their' spot. There should be a focal point for the setup - at the back of the stage this is usually the drum kit which should be set up centre-stage, while at the front it is the lead singer who must get the attention. Typically the guitarists would place their amps on either side of the kit.
 
-.. note::
-
-	The drummer should be able to hear the bass at all times!
-
 
 Things to keep in mind:
 -----------------------
@@ -43,6 +39,12 @@ You do need to know how much floor area you require for a minimal setup [when yo
 
 For a quick setup you have to make sure that everyone has clear access to their part of the stage. This means that:
 
+
+.. note::
+
+	Keep the stage as clear as possible at all times. Once you've set an item up, move everything you don't need off the stage.
+
+
 Drums first
 -----------
 
@@ -58,10 +60,12 @@ Guitar amps third
 
 Once the drummer's gear is out of the way the guitarists move their amps onto the stage and start plugging in their amps and wiring up their effects. Once complete they can start setting up their mike stands and running cables to the mixer. The drummer should also be wiring up his mikes at this time.
 
+
 .. note::
 
-	Keep the stage as clear as possible at all times. Once you've set an item up, move everything you don't need off the stage.
+	The drummer should be able to hear the bass at all times!
 
+	
 Monitors and mikes last
 -----------------------
 
