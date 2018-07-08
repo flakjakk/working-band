@@ -14,12 +14,20 @@ Okay, so we've finally reached the place where:
 
 It's time for the sound check.
 
-Pick an easy song to play - one where everyone has a go ie. all the vox are used, and the guitarists play a solo each. Someone should be out front to listen to the overall ound. Use this diagram as a basis for the balancing of the various instruments:
+Pick an easy song to play - one where everyone has a go ie. all the vox are used, and the guitarists play a solo each. Someone should be out front to listen to the overall sound. Use this diagram as a basis for the balancing of the various instruments:
 
 .. image:: images/volume-distribution.jpg
    :width: 600px
    :alt: volume distribution
 
+The relationships depicted should be held to as a general rule of thumb. You will find if you deviate too far from this arrangement that the whole foh sound goes out of whack.
+
+Play enough of the song to get an idea whether:
+
+	- the stage volume is not too loud, and
+	- everyone can hear the vocals
+
+Adjust the monitors accordingly, bearing in mind that a too-loud stage volume will badly upset the balance on the PA. In other words: Try to keep the stage volume down by turning guitars down instead of turning the monitors up.
 
 Kit
 ---
