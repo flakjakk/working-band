@@ -9,7 +9,7 @@ In the case of a venue that lacks a proper stage area, where the band is going t
 You do need to know how much floor area you require for a minimal setup [when you're all on stage and nobody is being side-swiped by the person next to them]. Discuss the options with the manager / owner. Given a logical argument they will usually agree with your requests.
 
 
-For a quick setup you have to make sure that everyone has clear access to their part of the stage. This means that:
+For a quick setup you have to make sure that everyone has clear access to their part of the stage.
 
 
 .. note::
