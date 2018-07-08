@@ -70,5 +70,7 @@ Both guitars must be heard at all times. This often requires a balancing act, bu
 
 #. The guitarists should not be playing the same chord inversions and / or rhythm patterns
 #. If they are duplicating either the inversions or patterns they must be perfectly synchronised
-#. No guitar must be louder than the other
+#. No guitar should be louder than the other
+
+Lead volume should be up at the same level as the lead vocal, **however**, at the end of a solo the guitar volume *must* return to where it was previously, otherwise *volume creep* happens!
 
