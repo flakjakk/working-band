@@ -16,6 +16,7 @@ Guide to being in a Working Band.
    rep
    playingpassion
    alternatives
+   terminology
 
 Indices and tables
 ******************
