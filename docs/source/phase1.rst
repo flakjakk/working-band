@@ -23,7 +23,7 @@ Things to keep in mind:
 Cabling
 ^^^^^^^
 
-Make sure you have enough power and audio cables for everything, then add at least two spare power , speaker and audio cables
+Make sure you have enough power and audio cables for everything, then add at least two spare power, speaker and audio cables
 
 There are many different ways of cabling a stage but adhering to certain rules when supplying power to amps and routing sound-signal cables from amps and mikes to the mixing desk will make this a simple task.
 
