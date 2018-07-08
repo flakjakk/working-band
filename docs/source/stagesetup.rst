@@ -5,8 +5,8 @@ Stage setup
    :maxdepth: 3
    
    phase1
-   bestpractise
    prereqs
+   bestpractise
    phase2
    linecheck
    phase3
