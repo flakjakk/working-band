@@ -43,5 +43,5 @@ Kit
 
 	If playing in a corner [as sometimes happens] and the kit sound is bouncing around [messy], try to pad the area around the kit with speaker covers, guitar cases etc. This can make a huge difference to the overall stage sound.
 
-The drummer should *never* have to bash the kit in order to hear himself. If this is the case then _turn the guitars down_!
+The drummer should *never* have to bash the kit in order to hear himself. If this is the case then **turn the guitars down**!
 
