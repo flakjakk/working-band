@@ -61,3 +61,14 @@ If the answer to both these questions is 'no', then the next question to ask is:
 If the answer is 'yes', then the stage volume is *too loud*. **Turn the guitar amps down**!
 
 If you're one of the guitarists who sings backing and you find that you can't hear your voice but can hear the lead vocal then **turn your amp down**.
+
+
+The guitars
+-----------
+
+Both guitars must be heard at all times. This often requires a balancing act, but the process is not as complicated as it seems.
+
+#. The guitarists should not be playing the same chord inversions and / or rhythm patterns
+#. If they are duplicating either the inversions or patterns they must be perfectly synchronised
+#. No guitar must be louder than the other
+
