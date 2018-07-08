@@ -24,21 +24,16 @@ Here is a representation of our basic layout:
    :alt: stage placings
 
 
-Drums first
------------
-
-Get all the kit gear onto the stage, as close as possible to the drummer's space - the rostrum if you're lucky enough to have one. This may take up space required by the guitarist/s at first.
-
-.. note::
-
-	If playing in a corner [as often happens] and the kit sound is bouncing around [messy], try to pad the area around the kit with speaker covers, guitar cases etc. This can make a huge difference to the overall stage sound.
-
-
-
-PA second
----------
+PA first
+--------
 
 Place the speakers up front and the mixing desk on stage, as close to the operator as possible. Run all the required cables and plug in. At this time the guitarists should be running power cables from the outlets to where their amp and effects are to be situated. The floor monitors should be placed and power cables set up for them.
+
+
+Drums second
+------------
+
+Get all the kit gear onto the stage, as close as possible to the drummer's space - the rostrum if you're lucky enough to have one. This may take up space required by the guitarist/s at first.
 
 
 Guitar amps third
