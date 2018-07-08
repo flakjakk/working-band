@@ -29,6 +29,11 @@ Drums first
 
 Get all the kit gear onto the stage, as close as possible to the drummer's space - the rostrum if you're lucky enough to have one. This may take up space required by the guitarist/s at first.
 
+.. note::
+
+	If playing in a corner [as often happens] and the kit sound is bouncing around [messy], try to pad the area around the kit with speaker covers, guitar cases etc. This can make a huge difference to the overall stage sound.
+
+
 
 PA second
 ---------
