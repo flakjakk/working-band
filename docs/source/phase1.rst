@@ -33,10 +33,3 @@ Lighting can cause real problems with your PA sound if you are powering your lig
 
 	Where possible find ways to distinguish between cable types - a guitar cable has braided insulation around a plastic-coated core while speaker cables are made up of two wires - no braid. Open one of the jack covers if you are not sure. Using a speaker cable as a guitar lead will work, but your tone will definitely be way off.
 
-
-Here is a representation of our basic layout:
-
-.. image:: images/seats-placement-on-stage.jpg
-   :width: 600px
-   :alt: stage placings
-

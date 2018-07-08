@@ -17,6 +17,13 @@ For a quick setup you have to make sure that everyone has clear access to their 
 	Keep the stage as clear as possible at all times. Once you've set an item up, move everything you don't need off the stage.
 
 
+Here is a representation of our basic layout:
+
+.. image:: images/seats-placement-on-stage.jpg
+   :width: 600px
+   :alt: stage placings
+
+
 Drums first
 -----------
 
