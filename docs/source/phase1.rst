@@ -33,6 +33,14 @@ Here is a representation of our basic layout:
 Best Practise
 =============
 
+What stage?
+-----------
+
+In the case of a venue that lacks a proper stage area, where the band is going to be placed is often the last thing on the club owner / manager's mind. This means you might find yourself in an unsatisfactory situation - pre-empt this as much as possible by visiting the venue and finding the best possible place to play.
+
+You do need to know how much floor area you require for a minimal setup [when you're all on stage and nobody is being side-swiped by the person next to them]. Discuss the options with the manager / owner. Given a logical argument they will usually agree with your requests.
+
+
 For a quick setup you have to make sure that everyone has clear access to their part of the stage. This means that:
 
 Drums first
