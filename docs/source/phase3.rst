@@ -29,6 +29,11 @@ Play enough of the song to get an idea whether:
 
 Adjust the monitors accordingly, bearing in mind that a too-loud stage volume will badly upset the balance on the PA. In other words: Try to keep the stage volume down by turning guitars down instead of turning the monitors up.
 
+Things to keep in mind
+----------------------
+
+Your ears will take at least 5 minutes to acclimatise to the general sound level. What this means practically is: play through two or three songs after the initial stoppage - playing the whole song is unnecessary - just do the intro and two verses with solos. Check with everyone after each song. You will find that the problems usually iron themselves out.
+
 Kit
 ---
 .. note::
