@@ -22,10 +22,12 @@ Drums first
 
 Get all the kit gear onto the stage, as close as possible to the drummer's space - the rostrum if you're lucky enough to have one. This may take up space required by the guitarist/s at first.
 
+
 PA second
 ---------
 
 Place the speakers up front and the mixing desk on stage, as close to the operator as possible. Run all the required cables and plug in. At this time the guitarists should be running power cables from the outlets to where their amp and effects are to be situated. The floor monitors should be placed and power cables set up for them.
+
 
 Guitar amps third
 -----------------
