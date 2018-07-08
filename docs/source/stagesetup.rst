@@ -6,6 +6,7 @@ Stage setup
    
    phase1
    bestpractise
+   prereqs
    phase2
    linecheck
    phase3
