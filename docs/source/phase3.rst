@@ -45,6 +45,7 @@ Kit
 
 The drummer should *never* have to bash the kit in order to hear himself. If this is the case then **turn the guitars down**!
 
+
 The vocals
 ----------
 
@@ -53,6 +54,10 @@ Some questions:
 	- Can the lead singer hear themselves in the PA?
 	- Can the backing singers hear themselves in the PA?
 
-If the answer to both these questions is 'no', then then next questioon to ask is: Are the vocals loud enough in the PA? If the answerr is 'yes', then the stage volume is *too loud*. **Turn the guitar amps down**!
+If the answer to both these questions is 'no', then the next question to ask is:
+
+	- Are the vocals loud enough in the PA?
+
+If the answer is 'yes', then the stage volume is *too loud*. **Turn the guitar amps down**!
 
 If you're one of the guitarists who sings backing and you find that you can't hear your voice but can hear the lead vocal then **turn your amp down**.
