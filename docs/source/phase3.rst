@@ -27,14 +27,23 @@ Kick drum
 
 Drummer to kick the kick while you go out front to listen. Bring the volume up until you can hear it nicely, not too loud, but punchy and full.
 
+Overheads and snare
+^^^^^^^^^^^^^^^^^^^
+
 Add in the rest of the kit taking care to bring the overheads up just enough to lift the sound of the cymbals above the general kit level. If the snare volume is too low ease the fader up a little; just enough to peek through.
 
 Once you're happy with the overall effect add the bass guitar in.
 
 Bass guitar
-^^^^^^^^^^^
+-----------
 
 Most of the time it's not necessary to send the bass guitar through the PA, and we will go with this assumption.
+
+Because of the wavelengths of the bass frequencies it can be difficult to get a good stage / FOH balance for the bass. This can result in a situation where the bass player can't hear their amp as clearly as it sounds 8 or 10 metres away. Obviously the bass must be clearly heard on stage while also being present in the room sound. Without it your live sound will be dull and lifeless.
+
+The important thing to remember is that the volume of the bass in the room itself is as, if not more important than the bass volume on stage. It's no good getting a fat bass sound on stage while peeling the paint off the walls in the room. For the sake of the overall balance [the sound your customers will hear] you should err on the conservative side.
+
+Once the drummer and bassist are happy you can add the guitars and vocals in.
 
 The whole band
 --------------
