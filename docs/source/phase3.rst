@@ -14,6 +14,31 @@ Okay, so we've finally reached the place where:
 
 It's time for the sound check.
 
+The drums
+---------
+
+Kit balance
+^^^^^^^^^^^
+
+For live kit you should use a microphone on the kick drum and two overheads for ambience. If necessary add a mic on the snare. Before you start the soundcheck ensure that the kit sound is naturally balanced. This presupposes that your drummer knows how to get a sound on the kit. Let's assume that he does.
+
+Kick drum
+^^^^^^^^^
+
+Drummer to kick the kick while you go out front to listen. Bring the volume up until you can hear it nicely, not too loud, but punchy and full.
+
+Add in the rest of the kit taking care to bring the overheads up just enough to lift the sound of the cymbals above the general kit level. If the snare volume is too low ease the fader up a little; just enough to peek through.
+
+Once you're happy with the overall effect add the bass guitar in.
+
+Bass guitar
+^^^^^^^^^^^
+
+Most of the time it's not necessary to send the bass guitar through the PA, and we will go with this assumption.
+
+The whole band
+--------------
+
 Pick an easy song to play - one where everyone has a go ie. all the vox are used, and the guitarists play a solo each. Someone should be out front to listen to the overall sound. Use this diagram as a basis for the balancing of the various instruments:
 
 .. image:: images/volume-distribution1.jpg
