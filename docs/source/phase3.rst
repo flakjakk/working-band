@@ -16,7 +16,7 @@ It's time for the sound check.
 
 Pick an easy song to play - one where everyone has a go ie. all the vox are used, and the guitarists play a solo each. Someone should be out front to listen to the overall sound. Use this diagram as a basis for the balancing of the various instruments:
 
-.. image:: images/volume-distribution.jpg
+.. image:: images/volume-distribution1.jpg
    :width: 600px
    :alt: volume distribution
 
