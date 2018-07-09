@@ -72,5 +72,15 @@ Both guitars must be heard at all times. This often requires a balancing act, bu
 #. If they are duplicating either the inversions or patterns they must be perfectly synchronised
 #. No guitar should be louder than the other
 
-Lead volume should be up at the same level as the lead vocal, **however**, at the end of a solo the guitar volume *must* return to where it was previously, otherwise *volume creep* happens!
+Lead volume should be up at the same level as the lead vocal, **however**, at the end of a solo the guitar volume *must* return to where it was previously, otherwise *volume creep* happens! While this may feel great to the guitarists, it most certainly makes things harder for everyone else.
+
+
+The rhythm section [kit and bass guitar]
+----------------------------------------
+
+This is the heart of the live sound. If there is something off kilter with either the kit or the bass volume it will throw the whole FOH mix. They have to mesh together on every level. That is to say:
+
+	- The kick drum and bass guitar must both be heard equally loudly. The one *cannot* be allowed to overpower the other. Balance the volumes.
+	- Nothing is more disconcerting to a front-line musician / singer than a rhythm section that is pulling in all directions at once. The players *must* play as one.
+	- Their overall volume cannot overpower the other instruments in the mix.
 
