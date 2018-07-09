@@ -1,3 +1,5 @@
+
+
 Phase III
 *********
 
@@ -17,15 +19,18 @@ It's time for the sound check.
 The drums
 ---------
 
+
 Kit balance
 ^^^^^^^^^^^
 
 For live kit you should use a microphone on the kick drum and two overheads for ambience. If necessary add a mic on the snare. Before you start the soundcheck ensure that the kit sound is naturally balanced. This presupposes that your drummer knows how to get a sound on the kit. Let's assume that he does.
 
+
 Kick drum
 ^^^^^^^^^
 
 Drummer to kick the kick while you go out front to listen. Bring the volume up until you can hear it nicely, not too loud, but punchy and full.
+
 
 Overheads and snare
 ^^^^^^^^^^^^^^^^^^^
@@ -33,6 +38,7 @@ Overheads and snare
 Add in the rest of the kit taking care to bring the overheads up just enough to lift the sound of the cymbals above the general kit level. If the snare volume is too low ease the fader up a little; just enough to peek through.
 
 Once you're happy with the overall effect add the bass guitar in.
+
 
 Bass guitar
 -----------
@@ -44,6 +50,7 @@ Because of the wavelengths of the bass frequencies it can be difficult to get a 
 The important thing to remember is that the volume of the bass in the room itself is as, if not more important than the bass volume on stage. It's no good getting a fat bass sound on stage while peeling the paint off the walls in the room. For the sake of the overall balance [the sound your customers will hear] you should err on the conservative side.
 
 Once the drummer and bassist are happy you can add the guitars and vocals in.
+
 
 The whole band
 --------------
