@@ -1,4 +1,5 @@
-########
+
+
 Practise
 ########
 
@@ -9,14 +10,18 @@ Practise
 At the group level
 ==================
 
-One of the critical elements for any band / group. If you don't practise together you will never be tight, and tight is right. Practise time can also be used for experimentation within the group - try new leads / harmonies / feels etc.
+Practise time together is critical for a band. The two biggest problems with regard to practising though, are time and space. Having said that, there is no substitute for a regularly scheduled practise. It's much easier to plan ahead when you know that, say, your Tuesday nights are booked up. Whether you get together once a week or once a month is not the issue, that you get together is.
+
+The less you practise together the less tight you'll be when on stage. and practise time can also be used for experimentation within the group - try new songs / leads / harmonies / feels etc. The trick is to feel each other out, push each other [and by extension the band] into new territory. Open up new possibilities. But you can only do this correctly if you are working off the strong foundation supplied by a large repertoire. Too much speculative experimentation in the practise room can make a band's presentation unstable.
+
+
+.. note::   Tip: A metronome is an invaluable tool and you should always use it when practising. You can get these at any music shop - so do it !
 
 
 As individuals
 ==============
 
-.. note::   Tip: A metronome is an invaluable tool and you should always use it when practising. You can get these at any music shop - so do it !
-
+Personal improvement is an ongoing effort. It's easy to slip into the routine of banging out the notes every night, especially if you know the material well. What you should be doing is thinking about how you can improve your part in such a way that it adds to the whole; takes the band up a notch in some small way. There are many ways to do this.
 
 More you can do . .
 ===================
