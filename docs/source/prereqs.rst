@@ -9,7 +9,7 @@ Make sure you have enough power and audio cables for everything, then add at lea
 There are many different ways of cabling a stage but adhering to certain rules when supplying power to amps and routing sound-signal cables from amps and mikes to the mixing desk will make this a simple task. Some things to keep in mind:
 
 	- Try and avoid running power and audio cables together
-	- Never run cables *across* the stage. Go around.
+	- Never run cables *across* the stage. Go around everything.
 
 Keep spare power extensions handy. Sooner or later you'll have to bring power to the stage from somewhere in the depths of the kitchen / store-room / whatever. Be prepared for this.
 
@@ -61,6 +61,8 @@ An instance of a 'system' would be the guitar rig, which consists of:
 |Channel switch pedal if needed |               |
 +-------------------------------+---------------+
 |Power cable for the amp        |               |
++-------------------------------+---------------+
+|Spare fuses for the amp        |               |
 +-------------------------------+---------------+
 |Mike for the guitar amp or     |               |
 +-------------------------------+---------------+
@@ -163,6 +165,26 @@ The drummers system can be listed as follows:
 +-------------------------------+---------------+
 |Mike clips                     |               |
 +-------------------------------+---------------+
+
+
+Bass guitar
+^^^^^^^^^^^
+
+
+
+The PA
+^^^^^^
+
+
+
+Stage monitors
+^^^^^^^^^^^^^^
+
+
+
+Lighting
+^^^^^^^^
+
 
 
 Marking your cables
