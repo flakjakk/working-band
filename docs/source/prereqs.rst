@@ -33,23 +33,43 @@ Electric guitars
 
 An instance of a 'system' would be the guitar rig, which consists of:
 
-	- Guitar
-		- Picks [plectrums]
-		- Strings
-		- Guitar strap
-		- Guitar stand
-	- Cable from guitar to effects
-	- Effects unit
-		- Power supply for the effects unit
-		- Patch cords for effect inter-connections
-	- Cable from effects unit to amp
-	- The amp itself
-		- Channel switch pedal [where required]
-		- Power cable for the amp
-	- Mike for the guitar amp and / or
-		- Cable from the amp to the mixing desk
-		- Mike stand for the mike
-		- Mike clip
++-------------------------------+---------------+
+|Item                           |Back up ?      |
++===============================+===============+
+|Guitar                         |               |
++-------------------------------+---------------+
+|Picks [plectrums]              |               |
++-------------------------------+---------------+
+|Strings                        |               |
++-------------------------------+---------------+
+|Guitar strap                   |               |
++-------------------------------+---------------+
+|Guitar stand                   |               |
++-------------------------------+---------------+
+|Cable from guitar to effects   |               |
++-------------------------------+---------------+
+|Effects unit                   |               |
++-------------------------------+---------------+
+|Power supply for effects       |               |
++-------------------------------+---------------+
+|Patch cords for effects        |               |
++-------------------------------+---------------+
+|Cable from effects unit to amp |               |
++-------------------------------+---------------+
+|The amp itself                 |               |
++-------------------------------+---------------+
+|Channel switch pedal if needed |               |
++-------------------------------+---------------+
+|Power cable for the amp        |               |
++-------------------------------+---------------+
+|Mike for the guitar amp or     |               |
++-------------------------------+---------------+
+|Cable from the amp to the mixer|               |
++-------------------------------+---------------+
+|Mike stand                     |               |
++-------------------------------+---------------+
+|Mike clip                      |               |
++-------------------------------+---------------+
 
 As you can see, the path from guitar to mixer is made up of many components, any of which might break down at any time. If you don't have adequate backup for any of these components you will be in trouble at the gig.
 
@@ -58,18 +78,33 @@ Acoustic guitar
 ^^^^^^^^^^^^^^^
 Similar to the electric guitar but usually doesn't include an amp.
 
-	- Guitar
-		- Picks [plectrums]
-		- Strings
-		- Guitar strap
-		- Guitar stand
-	- Cable from guitar to effects
-	- Effects unit [if used]
-		- Power supply for the effects unit
-		- Patch cords for effect inter-connections
-		- Cable from effects unit to DI box
-	- DI box
-		- Cable from DI to the mixer
++-------------------------------+---------------+
+|Item                           |Back up ?      |
++===============================+===============+
+|Guitar                         |               |
++-------------------------------+---------------+
+|Picks [plectrums]              |               |
++-------------------------------+---------------+
+|Strings                        |               |
++-------------------------------+---------------+
+|Guitar strap                   |               |
++-------------------------------+---------------+
+|Guitar stand                   |               |
++-------------------------------+---------------+
+|Cable from guitar to effects   |               |
++-------------------------------+---------------+
+|Effects unit                   |               |
++-------------------------------+---------------+
+|Power supply for effects       |               |
++-------------------------------+---------------+
+|Patch cords for effects        |               |
++-------------------------------+---------------+
+|Cable from effects unit to DI  |               |
++-------------------------------+---------------+
+|DI box                         |               |
++-------------------------------+---------------+
+|Cable from DI to the mixer     |               |
++-------------------------------+---------------+
 
 
 Vocals
@@ -77,13 +112,23 @@ Vocals
 
 Singers will need:
 
-	- A mike stand
-		- Mike clip
-	- The mike
-		- A cable from the mike to the mixer
-	- Music stand [optional]
-		- Light for the music stand
-		- Power for the light
++-------------------------------+---------------+
+|Item                           |Back up ?      |
++===============================+===============+
+|Their mike                     |               |
++-------------------------------+---------------+
+|A cable from mike to mixer     |               |
++-------------------------------+---------------+
+|Mike stand                     |               |
++-------------------------------+---------------+
+|Mike clip                      |               |
++-------------------------------+---------------+
+|Music stand [optional]         |               |
++-------------------------------+---------------+
+|Light for the music stand      |               |
++-------------------------------+---------------+
+|Power for the light            |               |
++-------------------------------+---------------+
 
 
 Kit
