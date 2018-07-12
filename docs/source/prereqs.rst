@@ -170,6 +170,43 @@ The drummers system can be listed as follows:
 Bass guitar
 ^^^^^^^^^^^
 
+Similar to the guitar system, but some bass players use a DI to split the sound from their bass and feed this directly into the PA mixer instead of using an amp line-out or mike:
+
++-------------------------------+---------------+
+|Item                           |Back up ?      |
++===============================+===============+
+|Guitar                         |               |
++-------------------------------+---------------+
+|Picks [if necessary]           |               |
++-------------------------------+---------------+
+|Strings                        |               |
++-------------------------------+---------------+
+|Guitar strap                   |               |
++-------------------------------+---------------+
+|Guitar stand                   |               |
++-------------------------------+---------------+
+|Cable from guitar to effects   |               |
++-------------------------------+---------------+
+|Effects unit                   |               |
++-------------------------------+---------------+
+|Power supply for effects       |               |
++-------------------------------+---------------+
+|Patch cords for effects        |               |
++-------------------------------+---------------+
+|Cable from effects unit to amp |               |
++-------------------------------+---------------+
+|The amp itself                 |               |
++-------------------------------+---------------+
+|Channel switch pedal if needed |               |
++-------------------------------+---------------+
+|Power cable for the amp        |               |
++-------------------------------+---------------+
+|Spare fuses for the amp        |               |
++-------------------------------+---------------+
+|DI for the mixer feed          |               |
++-------------------------------+---------------+
+|Cable from the DI to the mixer |               |
++-------------------------------+---------------+
 
 
 The PA
