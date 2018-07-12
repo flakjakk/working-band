@@ -23,13 +23,19 @@ Redundancy
 
 The idea is to have a backup for *every* system and cable on stage. By 'system' I mean an assemblage of components used by one person to get their sound from their voice / instrument to the mixer.
 
+Every musician must have access to a tuner on stage.
 
-Guitars
-^^^^^^^
+
+Electric guitars
+^^^^^^^^^^^^^^^^
 
 An instance of a 'system' would be the guitar rig, which consists of:
 
 	- Guitar
+		- Picks [plectrums]
+		- Strings
+		- Guitar strap
+		- Guitar stand
 	- Cable from guitar to effects
 	- Effects unit
 		- Power supply for the effects unit
@@ -38,10 +44,66 @@ An instance of a 'system' would be the guitar rig, which consists of:
 	- The amp itself
 		- Channel switch pedal [where required]
 		- Power cable for the amp
-		- Mike for the guitar amp and / or
+	- Mike for the guitar amp and / or
 		- Cable from the amp to the mixing desk
+		- Mike stand for the mike
+		- Mike clip
 
 As you can see, the path from guitar to mixer is made up of many components, any of which might break down at any time. If you don't have adequate backup for any of these components you will be in trouble at the gig.
+
+
+Acoustic guitar
+^^^^^^^^^^^^^^^
+Similar to the electric guitar but usually doesn't include an amp.
+
+	- Guitar
+		- Picks [plectrums]
+		- Strings
+		- Guitar strap
+		- Guitar stand
+	- Cable from guitar to effects
+	- Effects unit [if used]
+		- Power supply for the effects unit
+		- Patch cords for effect inter-connections
+		- Cable from effects unit to DI box
+	- DI box
+		- Cable from DI to the mixer
+
+
+Vocals
+^^^^^^
+
+Singers will need:
+
+	- A mike stand
+		- Mike clip
+	- The mike
+		- A cable from the mike to the mixer
+	- Music stand [optional]
+		- Light for the music stand
+		- Power for the light
+
+
+Kit
+^^^
+
+The drummer must bring with him a carpet large enough to place the entire drum kit on, but no bigger than that [unless you like the 'lounge' feel!]. This is critical when you're expected to play on a bare floor, and can be used as a basic template around which all your back-line gear can be arranged.
+
+The drummers 'system' can be listed as follows:
+
+	- Carpet [where required]
+	- Drums
+		- Spare vellums
+	- Cymbal stands
+	- Cymbals
+	- Drum sticks
+	- Drum tuning key
+	- Kick drum pedal
+	- Mikes
+		- Mike cables
+	- Mike stands
+		- Mike clips
+	
 
 Marking your cables
 ^^^^^^^^^^^^^^^^^^^
@@ -50,9 +112,4 @@ It is a good idea to mark your cables clearly. Getting into a bun-fight over whi
 
 	Where possible find ways to distinguish between cable types - a guitar cable has braided insulation around a plastic-coated core while speaker cables are made up of two wires - no braid. Open one of the jack covers if you are not sure. Using a speaker cable as a guitar lead may work, but your tone will definitely be way off.
 
-
-Kit
----
-
-Drummer must bring with him a carpet large enough to place the entire drum kit on, but no bigger than that [unless you like the 'lounge' feel!]. This is critical when you're expected to play on a bare floor, and can be used as a basic template around which all your back-line gear can be arranged.
 
