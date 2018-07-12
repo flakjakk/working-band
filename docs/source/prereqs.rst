@@ -23,7 +23,9 @@ Redundancy
 
 The idea is to have a backup for *every* system and cable on stage. By 'system' I mean an assemblage of components used by one person to get their sound from their voice / instrument to the mixer.
 
-..note::   Every musician must have access to a tuner on stage.
+.. note::
+
+	Every musician must have access to a tuner on stage.
 
 
 Electric guitars
@@ -109,6 +111,8 @@ Marking your cables
 ^^^^^^^^^^^^^^^^^^^
 
 It is a good idea to mark your cables clearly. Getting into a bun-fight over which cable belongs to whom is not worth the trouble. Use some electrical tape for this - it comes in different colours, so pick one and wrap it round the end of each of your own cables.
+
+.. Pics of cables marked: 1/4" and power ext with names
 
 	Where possible find ways to distinguish between cable types - a guitar cable has braided insulation around a plastic-coated core while speaker cables are made up of two wires - no braid. Open one of the jack covers if you are not sure. Using a speaker cable as a guitar lead may work, but your tone will definitely be way off.
 
