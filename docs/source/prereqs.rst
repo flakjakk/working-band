@@ -23,7 +23,7 @@ Redundancy
 
 The idea is to have a backup for *every* system and cable on stage. By 'system' I mean an assemblage of components used by one person to get their sound from their voice / instrument to the mixer.
 
-Every musician must have access to a tuner on stage.
+..note::   Every musician must have access to a tuner on stage.
 
 
 Electric guitars
@@ -89,7 +89,7 @@ Kit
 
 The drummer must bring with him a carpet large enough to place the entire drum kit on, but no bigger than that [unless you like the 'lounge' feel!]. This is critical when you're expected to play on a bare floor, and can be used as a basic template around which all your back-line gear can be arranged.
 
-The drummers 'system' can be listed as follows:
+The drummers system can be listed as follows:
 
 	- Carpet [where required]
 	- Drums
