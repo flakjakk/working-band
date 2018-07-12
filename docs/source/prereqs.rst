@@ -93,19 +93,32 @@ The drummer must bring with him a carpet large enough to place the entire drum k
 
 The drummers system can be listed as follows:
 
-	- Carpet [where required]
-	- Drums
-		- Spare vellums
-	- Cymbal stands
-	- Cymbals
-	- Drum sticks
-	- Drum tuning key
-	- Kick drum pedal
-	- Mikes
-		- Mike cables
-	- Mike stands
-		- Mike clips
-	
++-------------------------------+---------------+
+|Item                           |Back up ?      |
++===============================+===============+
+|Carpet [where required]        |               |
++-------------------------------+---------------+
+|Drums                          |Spare vellums  |
++-------------------------------+---------------+
+|Cymbal stands                  |               |
++-------------------------------+---------------+
+|Cymbals                        |               |
++-------------------------------+---------------+
+|Drum sticks                    |               |
++-------------------------------+---------------+
+|Drum tuning key                |               |
++-------------------------------+---------------+
+|Kick drum pedal                |               |
++-------------------------------+---------------+
+|Mikes                          |               |
++-------------------------------+---------------+
+|Mike cables                    |               |
++-------------------------------+---------------+
+|Mike stands                    |               |
++-------------------------------+---------------+
+|Mike clips                     |               |
++-------------------------------+---------------+
+
 
 Marking your cables
 ^^^^^^^^^^^^^^^^^^^
