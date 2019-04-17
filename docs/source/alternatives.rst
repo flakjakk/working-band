@@ -6,7 +6,7 @@
 
 Many gigging musicians would prefer not to work with backing tracks.
 
-Having said that, it is obvious that a band with less membersis more likely to earn more money per member. There is more scope for gigs:
+Having said that, it is obvious that a band with less members is more likely to earn more money per member. There is more scope for gigs:
 * The band has a smaller stage footprint
 * They can play in many venues that cannot accommodate bigger bands
 * The logistics involved are simpler for a smaller band
@@ -22,6 +22,8 @@ So where to now? Or ...
 ## Sources for backing tracks
 
 The best way to use tracks would be an mp3 player of some kind - an iPad with SoundCue installed is *very* handy for this, but there are other options. You can use a laptop just as well.
+
+There are only two options if you want backing tracks. Either you purchase them from providers or you make your own.
 
 ### The Internet
 
@@ -48,14 +50,14 @@ If you adopt this method and are happy with the results you can jump to section 
 
 ##### Using a midi in / out connection to an external sound module
 
-If you have a hardware sound module available - this can be any midi-capable keyboard or actual sound source - you can purchase a usb-midi connector to connect your pc to the sound source. These retail at around R300.00 in SA. Finding one may be a problem but if you talk to Music Connection they can set you right.
+If you have a hardware sound module available - this can be any midi-capable keyboard or actual sound source - you can purchase a usb-midi connector to connect your pc to the sound source.
 
 Follow the instructions for the sound module and connector and if you're happy with the results go to section [x] - recording the output.
 
 ##### Using a third-party program to play / edit the midi file
 
-You can always go out and blow soem cash on something like CuBase, but this is a fully fledged recording studio application with all the bells and whistles - unnecessary expense in this situation. My personal preference is an app called REAPER - I use it for all playing / recording / editing of files to be used for backing tracks. It can run on a reasonably low spec machine and you don't need to outlay any cash in order to achieve great sound. It plays the midi files, and once the file is split into it's component channels you can edit them individually, add effects, add / change instruments etc. to your hearts content.
+You can always go out and blow some cash on something like CuBase, but this is a fully fledged recording studio application with all the bells and whistles - unnecessary expense in this situation. My personal preference is an app called REAPER - I use it for all playing / recording / editing of files to be used for backing tracks. It can run on a reasonably low spec machine and you don't need to outlay any cash in order to achieve great sound. It plays the midi files, and once the file is split into it's component channels you can edit them individually, add effects, add / change instruments etc. to your hearts content.
 
 Sounds can be downloaded from the net [free or purchased] and once you are happy with them you can record the tracks as a single mp3 / wav or whatever format you prefer. Brilliant.
 
-REAPER is not free and you are expected to pay for a license if you are going to use it commercially, so Do The Right Thing and buy the license. It's worth every cent bru. However, REAPER retains full functionality indefinitely without being licensed. Odd but true.
+REAPER is not free and you are expected to pay for a license if you are going to use it commercially, so Do The Right Thing and buy the license. It's worth every cent. However, REAPER retains full functionality indefinitely without being licensed. Odd but true.
