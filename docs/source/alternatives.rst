@@ -6,7 +6,7 @@ Alternatives
 Backing tracks
 ##############
 
-Many gigging musicians would prefer not to work with backing tracks.
+Many gigging musicians would prefer not to work with backing tracks. There are however, obvious advantages to using them in a live setting. A solo artist or two-piece band can get a much bigger sound and broaden their repertoire considerably using backing tracks.
 
 Having said that, it is obvious that a band with less members is more likely to earn more money per member. There is more scope for gigs:
 * The band has a smaller stage footprint
@@ -21,7 +21,8 @@ So where to now? Or ...
 
 > *If you're ok with the thought of using backing tracks what are the next steps?*
 
-# Sources for backing tracks
+Sources for backing tracks
+==========================
 
 The best way to use tracks would be an mp3 player of some kind - an iPad with SoundCue installed is *very* handy for this, but there are other options. You can use a laptop just as well.
 
