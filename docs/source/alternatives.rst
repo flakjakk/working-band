@@ -28,9 +28,8 @@ The best way to use tracks would be an mp3 player of some kind - an iPad with So
 
 There are only two options if you want backing tracks. Either you purchase them from providers or you make your own.
 
-^^^^^^^^^^^^
 The Internet
-^^^^^^^^^^^^
+------------
 
 ### Buy Direct
 
