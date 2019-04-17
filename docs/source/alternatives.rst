@@ -2,8 +2,9 @@
 Alternatives
 ============
 
+##############
 Backing tracks
---------------
+##############
 
 Many gigging musicians would prefer not to work with backing tracks.
 
