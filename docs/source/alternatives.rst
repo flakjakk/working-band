@@ -1,10 +1,9 @@
 
 Alternatives
-============
+############
 
-##############
 Backing tracks
-##############
+**************
 
 Many gigging musicians would prefer not to work with backing tracks. There are however, obvious advantages to using them in a live setting. A solo artist or two-piece band can get a much bigger sound and broaden their repertoire considerably using backing tracks.
 
