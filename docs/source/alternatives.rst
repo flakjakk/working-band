@@ -28,7 +28,8 @@ The best way to use tracks would be an mp3 player of some kind - an iPad with So
 
 There are only two options if you want backing tracks. Either you purchase them from providers or you make your own.
 
-## The Internet
+The Internet
+^^^^^^^^^^^^
 
 ### Buy Direct
 
@@ -36,24 +37,24 @@ There are only two options if you want backing tracks. Either you purchase them 
 
 #### Using midi files to create your own tracks
 
-If you have a sequencer setup at home - either hardware- or pc-based you can create your own midi files and use these as a basis for your backing tracks.
+If you have a sequencer setup at home - either hardware- or PC-based you can create your own midi files and use these as a basis for your backing tracks.
    2. Downloading the midi files from the net is a really fast way to pick up midi tracks, but just remember that the quality can be very suspect.
 
 Now, once you have the midi file how do you convert it to a form usable on stage?
 
-Playing the file on your pc will give you a really basic sound - Windows has a built-in Software Synth capable of playing midi files, but the sound quality irritates rather than elevates. You want the songs to sound big, and fat. Like the cd.
+Playing the file on your PC will give you a really basic sound - Windows has a built-in Software Synth capable of playing midi files, but the sound quality irritates rather than elevates. You want the songs to sound big. And fat. Like the CD.
 
 *How to make your tracks you achieve this?*
 
 #### Using a sound card
 
-You can purchase a dedicated sound card for your pc - works just like your graphics card in that you use the inputs /  outputs on the card instead of the ones supplied with your pc. There are a number of good quality cards out there and you may have to shop around a bit before finding one that suits both your pocket and your ears.
+You can purchase a dedicated sound card for your PC - works just like your graphics card in that you use the inputs /  outputs on the card instead of the ones supplied with your PC. There are a number of good quality cards out there and you may have to shop around a bit before finding one that suits both your pocket and your ears.
 
 If you adopt this method and are happy with the results you can jump to section [x] where we discuss recording the output.
 
 #### Using a midi in / out connection to an external sound module
 
-If you have a hardware sound module available - this can be any midi-capable keyboard or actual sound source - you can purchase a usb-midi connector to connect your pc to the sound source.
+If you have a hardware sound module available - this can be any midi-capable keyboard or actual sound source - you can purchase a USB-midi connector to connect your PC to the sound source.
 
 Follow the instructions for the sound module and connector and if you're happy with the results go to section [x] - recording the output.
 
