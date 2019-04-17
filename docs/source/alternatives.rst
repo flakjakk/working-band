@@ -36,7 +36,7 @@ There are only two options if you want backing tracks. Either you purchase them 
 If you have a sequencer setup at home - either hardware- or pc-based you can create your own midi files and use these as a basis for your backing tracks.
    2. Downloading the midi files from the net is a really fast way to pick up midi tracks, but just remember that the quality can be very suspect.
 
-Now, once you have the midi file how do you convert it to a usable format on stage?
+Now, once you have the midi file how do you convert it to a form usable on stage?
 
 Playing the file on your pc will give you a really basic sound - Windows has a built-in Software Synth capable of playing midi files, but the sound quality irritates rather than elevates. You want the songs to sound big, and fat. Like the cd.
 
