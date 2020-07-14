@@ -113,7 +113,7 @@ True   False  True
 Internal hyperlinks:
 ====================
  	
-All titles are considered as internal hyperlinks that may be refered to using this syntax:
+All titles are considered as internal hyperlinks that may be referred to using this syntax:
 
 `Internal and External links`_
 
@@ -122,7 +122,7 @@ You may also create hyperlink as follows:
 .. _begin:
 And then inserting begin_ in your text. For instance, jump to the beginning of this document rst_tutorial
 
-Note the underscore at the end ot the links
+Note the underscore at the end of the links
 
 External links:
 ===============

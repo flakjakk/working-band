@@ -29,13 +29,16 @@ There are only two options if you want backing tracks. Either you purchase them 
 
 
 The Internet
--
+------------
 
-### Buy Direct
+Buy Direct
+^^^^^^^^^^
 
-### Build your own
+Build your own
+^^^^^^^^^^^^^^
 
-#### Using midi files to create your own tracks
+Using midi files to create your own tracks
+------------------------------------------
 
 If you have a sequencer setup at home - either hardware- or PC-based you can create your own midi files and use these as a basis for your backing tracks.
    2. Downloading the midi files from the net is a really fast way to pick up midi tracks, but just remember that the quality can be very suspect.
